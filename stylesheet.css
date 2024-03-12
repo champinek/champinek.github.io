@@ -1,0 +1,15 @@
+.mainstyle
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 24px;
+}
+body {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif; font-size: 16px;
+}
+
+.navigation
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
